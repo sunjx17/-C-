@@ -1,0 +1,10 @@
+*.dll linguist-language=C++
+*.exe linguist-language=C++
+*.sln linguist-language=C++
+*.suo linguist-language=C++
+*.h linguist-language=C++
+*.cpp linguist-language=C++
+*.vcproj linguist-language=C++
+*.html linguist-language=C++
+*.idb linguist-language=C++
+*.pdb linguist-language=C++
