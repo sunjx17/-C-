@@ -1,0 +1,4 @@
+LIBRARY	"Keydll"
+EXPORTS
+	StartKeySave @8
+	EndKeySave @1

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Keydll", "Keydll\Keydll.vcproj", "{B5FEA20F-4409-4DF9-935D-4A5D2B2C5D80}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Keydll-nowin", "Keydll-FiltNowindow\Keydl-nowinl.vcproj", "{117C8D50-343A-4049-AD5F-133C03C9A6FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5FEA20F-4409-4DF9-935D-4A5D2B2C5D80}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B5FEA20F-4409-4DF9-935D-4A5D2B2C5D80}.Debug|Win32.Build.0 = Debug|Win32
+		{B5FEA20F-4409-4DF9-935D-4A5D2B2C5D80}.Release|Win32.ActiveCfg = Release|Win32
+		{B5FEA20F-4409-4DF9-935D-4A5D2B2C5D80}.Release|Win32.Build.0 = Release|Win32
+		{117C8D50-343A-4049-AD5F-133C03C9A6FF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{117C8D50-343A-4049-AD5F-133C03C9A6FF}.Debug|Win32.Build.0 = Debug|Win32
+		{117C8D50-343A-4049-AD5F-133C03C9A6FF}.Release|Win32.ActiveCfg = Release|Win32
+		{117C8D50-343A-4049-AD5F-133C03C9A6FF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
